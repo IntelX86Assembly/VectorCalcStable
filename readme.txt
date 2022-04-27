@@ -1,11 +1,18 @@
-Version3
-
 This version is stable and ready for deployment.
-
 
 How to run)
 
+How to Install and Run for Windows:
+Download VectorCalc.zip From
+https://github.com/IntelX86Assembly/VectorCalcStable/releases/tag/release_Windows
+Right+Click → Extract All →Open folder
+Double click on VectorCalc.exe
+
+How to Install and Run for linux/Mac:
+git clone https://github.com/IntelX86Assembly/VectorCalcStable.git
+cd VectorCalcStable 
 $ python3 GuiRoot.py
+
 
 Quick overview of classes
 
