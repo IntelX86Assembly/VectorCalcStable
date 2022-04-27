@@ -1,3 +1,8 @@
+#RUN THIS PROGRAM WITH "$python3 GuiRoot.py"
+#THIS PROGRAM IS THE DRIVER PROGRAM. IT DRAWS THE
+#ROOT WINDOW AND CALLS SUBCLASSES TO GET WORK DONE
+
+
 #IMPORT STATEMENTS
 
 #Import tkinter for drawing gui. Import ttk, messagebox
